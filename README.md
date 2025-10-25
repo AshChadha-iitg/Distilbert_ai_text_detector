@@ -1,5 +1,4 @@
-# DistilBERT AI-vs-Human Text Classifier
-
+# DistilBERT AI Text Detector
 This is a binary text classification model built on top of **distilbert-base-uncased**. It has been fine-tuned to distinguish between AI-generated and human-written text.
 
 
